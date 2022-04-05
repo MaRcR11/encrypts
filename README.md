@@ -11,8 +11,8 @@ Everytime starting index.py the following steps occur:
   - Output your encrypted string
 ### Getting started
   - `git clone https://github.com/MaRcR11/encrypts`
-  - cd encrypts\homophonic-encryption
-  - index.py {YOUR INPUT STRING} {options}
+  - `cd encrypts\homophonic-encryption`
+  - `index.py {INPUT} {options}`
     - options
       - -e -> English language
       - -d -> German language
