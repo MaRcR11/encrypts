@@ -9,7 +9,13 @@ Everytime starting index.py the following steps occur:
   - Generating list A of integers from 0-99
   - Randomly assign intergers from A dependent on the probability of occurence of letters of the chosen possible language
   - Output your encrypted string
-### How to?
+### Getting started
+  - git clone https://github.com/MaRcR11/encrypts
+  - cd encrypts\homophonic-encryption
+  - index.py {YOUR INPUT STRING} {options}
+    - Options
+      - -e -> English Language
+      - -d -> German Language
 
 
 ![text](img1.PNG)
