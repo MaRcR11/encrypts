@@ -16,7 +16,7 @@ Everytime starting index.py the following steps occur:
     - options
       - -e -> English Language
       - -d -> German Language
-      default is German
+      - default is German
 
 
 ![text](img1.PNG)
