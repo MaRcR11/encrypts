@@ -1,6 +1,6 @@
 from random import choice
 from string import ascii_lowercase
-import sys, getopt
+import sys
 
 
 def main(argv):
