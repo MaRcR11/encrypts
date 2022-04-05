@@ -14,8 +14,8 @@ Everytime starting index.py the following steps occur:
   - cd encrypts\homophonic-encryption
   - index.py {YOUR INPUT STRING} {options}
     - options
-      - -e -> English Language
-      - -d -> German Language
+      - -e -> English language
+      - -d -> German language
       - default is German
 
 
