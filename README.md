@@ -10,7 +10,7 @@ Everytime starting index.py the following steps occur:
   - Randomly assign intergers from A dependent on the probability of occurence of letters of the chosen possible language
   - Output your encrypted string
 ### Getting started
-  - git clone https://github.com/MaRcR11/encrypts
+  - `git clone https://github.com/MaRcR11/encrypts`
   - cd encrypts\homophonic-encryption
   - index.py {YOUR INPUT STRING} {options}
     - options
