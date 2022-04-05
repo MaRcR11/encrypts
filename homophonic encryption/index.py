@@ -5,9 +5,9 @@ import sys, getopt
 
 def main(argv):
 
-    print(argv)
+    print("Input:", argv[0])
 
-    if len(argv)!=1:
+    if len(argv) != 1:
         return
     nums = [i for i in range(100)]
 
@@ -63,12 +63,12 @@ def main(argv):
             x = str((choice(assignedNums[alphaPos])))
             charEncrypted += x
         except ValueError:
-            print("You entered something containing numbers... Do not do this. Only enter something of type string.")
+            print(
+                "You entered something containing numbers... Do not do this. Only enter something of type string."
+            )
             return
 
-
-
-    print(charEncrypted)
+    print("Output:", charEncrypted)
 
 
 if __name__ == "__main__":
