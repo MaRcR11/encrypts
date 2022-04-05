@@ -13,9 +13,10 @@ Everytime starting index.py the following steps occur:
   - git clone https://github.com/MaRcR11/encrypts
   - cd encrypts\homophonic-encryption
   - index.py {YOUR INPUT STRING} {options}
-    - Options
+    - options
       - -e -> English Language
       - -d -> German Language
+      default is German
 
 
 ![text](img1.PNG)
