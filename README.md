@@ -4,7 +4,7 @@ Encryption algorithms made up to work in console.
 
 ## Homophonic encryption
 
-![text](img1.PNG)
+![text](homophonic encryptionimg/img1.PNG)
 
 ## Note
 
