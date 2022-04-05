@@ -1,6 +1,6 @@
 # encrypts
 
-Encryption algorithms made up to work in console. You need to have python installed https://www.python.org/downloads/.
+Encryption algorithms made up to work in console. You need to have python installed. https://www.python.org/downloads/
 
 ## Homophonic encryption
 As with all monoalphabetic substitution methods, only a single, fixed substitution alphabet is used for encryption and decryption in homophonic encryption.
