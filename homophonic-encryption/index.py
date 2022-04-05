@@ -4,13 +4,13 @@ import sys, getopt
 
 
 def main(argv):
-    print(argv)
     opt = False
     default = True
     frequencyCharEnglish = []
     print("Input:", argv[0])
 
     if len(argv) > 2:
+        print("Please enter {INPUT} {option}")
         return
     if len(argv) == 1:
         default = True
