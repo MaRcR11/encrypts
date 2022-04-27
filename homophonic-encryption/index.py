@@ -7,15 +7,14 @@ def main(argv):
     opt = False
     default = True
     frequencyCharEnglish = []
-    print("Input:", argv[0])
-
+    print("Input:", argv[1])
     if len(argv) > 2:
         print("Please enter {INPUT} {option}")
         return
     if len(argv) == 1:
         default = True
     if len(argv) == 2:
-        if argv[1] != ("-e" and "-g") or len(argv) == 1:
+        if argv[1] != "-e" and argv[1] != "-g":
             print("Please chose as an option -g or -e ")
             return
         opt = argv[1]
