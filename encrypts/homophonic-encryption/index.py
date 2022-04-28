@@ -7,7 +7,7 @@ def main(argv):
     opt = False
     default = True
     frequencyCharEnglish = []
-    print("Input:", argv[1])
+    print("Input:", argv[0])
     if len(argv) > 2:
         print("Please enter {INPUT} {option}")
         return
@@ -104,9 +104,7 @@ def main(argv):
             x = str((choice(assignedNums[alphaPos])))
             charEncrypted += x
         except ValueError:
-            print(
-                "You entered something containing something that was not char... Do not do this. Only enter something of type string."
-            )
+            print("Error: You entered something that was not type of char")
             return
 
     print("Output:", charEncrypted)
