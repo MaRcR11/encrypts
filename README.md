@@ -32,7 +32,7 @@ Everytime starting index.py the following steps occur:
   - `cd encrypts\atbash`
   - `index.py {INPUT}`
       
-![text](img.PNG) 
+![text](img2.PNG) 
 
 
 ## Note
