@@ -21,6 +21,19 @@ Everytime starting index.py the following steps occur:
 
 ![text](img1.PNG)
 
+## atbash
+Atbash is a monoalphabetic substitution cipher originally used to encrypt the Hebrew alphabet. It can be modified for use with any known writing system with a standard collating order.
+Everytime starting index.py the following steps occur:
+  - Getting your input
+  - Assign cipher to each char
+  - Output your encrypted string
+### Getting started
+  - `git clone https://github.com/MaRcR11/encrypts`
+  - `cd encrypts\atbash`
+  - `index.py {INPUT}`
+      
+
+
 ## Note
 
 Not finished, still in process.
