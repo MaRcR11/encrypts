@@ -19,7 +19,7 @@ Everytime starting index.py the following steps occur:
       - default is German
 
 
-![text](img1.PNG)
+![text](img/img1.PNG)
 
 ## atbash
 Atbash is a monoalphabetic substitution cipher originally used to encrypt the Hebrew alphabet. It can be modified for use with any known writing system with a standard collating order.
@@ -32,7 +32,7 @@ Everytime starting index.py the following steps occur:
   - `cd encrypts\atbash`
   - `index.py {INPUT}`
       
-![text](img2.PNG) 
+![text](img/img2.PNG) 
 
 
 ## Note
