@@ -11,7 +11,7 @@ def main(argv):
             argv[j] = list(ascii_lowercase)[25 - ascii_lowercase.index(argv[j])]
             j += 1
     except ValueError:
-        print("Error: You entered something that was not type of char")
+        print("ValueError: You entered something that was not type of char")
         return
 
     print("Output:", "".join(argv))
