@@ -104,7 +104,7 @@ def main(argv):
             x = str((choice(assignedNums[alphaPos])))
             charEncrypted += x
         except ValueError:
-            print("Error: You entered something that was not type of char")
+            print("ValueError: You entered something that was not type of char")
             return
 
     print("Output:", charEncrypted)
